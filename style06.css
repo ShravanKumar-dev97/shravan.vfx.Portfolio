@@ -14,6 +14,8 @@
     display: flex;
     flex-wrap: wrap;
     
+    
+    
     list-style: none;
     font-size: 1.5em;
     text-decoration: none;
@@ -25,7 +27,7 @@
     
 
     border-bottom: 3px solid transparent;
-    border-image: linear-gradient(to right, transparent, red ,rgba(255, 0, 0, 0.021), transparent);
+    border-image: linear-gradient(to right, transparent, red , transparent);
     border-image-slice: 1;
     
     
@@ -37,6 +39,7 @@
 li{
     padding-left: 7em;
     padding-top: 2em;
+    
     
 }
 
@@ -109,7 +112,7 @@ a:hover{
     
     
     border-bottom: 3px solid transparent;
-    border-image: linear-gradient(to right, transparent, red ,rgba(255, 0, 0, 0.021), transparent);
+    border-image: linear-gradient(to right, transparent, red, transparent);
 
     border-image-slice: 1;
  
@@ -129,6 +132,8 @@ a:hover{
     padding-left: 11.5em;
     padding-top: 1.5em;
     padding-bottom: 1.5em;
+
+    
     
     
     
@@ -281,6 +286,12 @@ p{
     margin-right: auto;
     color: white;
     background-color: rgb(10, 10, 10);
+
+    border-bottom: 3px solid red;
+    border-image: linear-gradient(to right, transparent, red, transparent);
+
+    border-image-slice: 1;
+   
 }
 
 
@@ -385,7 +396,7 @@ footer{
     li{
         padding-left: 4em;
         padding-top: 1em;
-        
+        font-size: 1.2em;
     }
 
 
@@ -399,8 +410,11 @@ footer{
 
     .header2 {
       
-        
+        font-size: 2em;
         justify-content: center;
+
+        
+       
         
       
     }
@@ -423,6 +437,15 @@ footer{
 
     .contactdetails h3{
         transform: translateX(0);
+        
+    }
+
+    footer{
+        font-size: 0.5em;
+    }
+
+    .icon ul li i{
+        font-size: 8em;
         
     }
 
