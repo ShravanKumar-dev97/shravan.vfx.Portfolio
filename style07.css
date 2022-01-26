@@ -1,11 +1,54 @@
 *
 {
     margin: 0;
+    padding: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
+   
     
     
 }
+
+
+
+
+
+.parallax{
+    perspective: 1px;
+    height: 100vh;
+   
+    overflow-y: auto;
+
+    
+    
+}
+
+.parallax__layer{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+.parallax__layer--base{
+    
+    transform: translateZ(0);
+}
+
+.parallax__layer--back{
+    color: salmon;
+    
+    
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    transform: translateZ(-4px) scale(10);
+}
+
 
 
 
@@ -21,9 +64,10 @@
     text-decoration: none;
     
    
-    background-color: rgb(10, 10, 10);
+    
     padding-top: 5em;
     padding-bottom: 0.5em;
+    
     
 
     border-bottom: 3px solid transparent;
@@ -36,14 +80,18 @@
 }
 
 
-li{
-    padding-left: 7em;
+.topnav li{
+    padding-left: 5rem;
+    padding-right: 5rem;
     padding-top: 2em;
+    
+    
     
     
 }
 
 a{
+    
     color: white;
     text-decoration: none;
     
@@ -58,7 +106,7 @@ a:hover{
 .header{
 
 
-    background-color: rgb(10, 10, 10);
+    background-color: transparent;
     
     color : red;
     
@@ -102,7 +150,7 @@ a:hover{
 
 
 .header2{
-    background-color: rgb(10, 10, 10);
+    
     color: red;
     font-size: 1.5em;
     font-weight: 700;
@@ -126,7 +174,7 @@ a:hover{
 
 }
 .studios{
-    background-color: rgb(10, 10, 10);
+    
     color: white;
     font-size: 1rem;
     padding-left: 11.5em;
@@ -156,7 +204,7 @@ a:hover{
 .container{
     display: flex;
     flex-wrap: wrap;
-    background-color:rgb(10, 10, 10);
+    
     justify-content: center;
     padding-top: 1.5em;
     padding-bottom: 1.5em;
@@ -285,7 +333,7 @@ p{
     padding-bottom: 3em;
     margin-right: auto;
     color: white;
-    background-color: rgb(10, 10, 10);
+    
 
     border-bottom: 3px solid red;
     border-image: linear-gradient(to right, transparent, red, transparent);
@@ -334,7 +382,7 @@ p{
 
 
 footer{
-    background-color:rgb(10, 10, 10);
+    
     color: rgba(255, 255, 255, 0.493);
     font-size: 1em;
     letter-spacing: 0.25em;
@@ -448,5 +496,10 @@ footer{
         font-size: 8em;
         
     }
+
+
+
+  
+
 
   }
