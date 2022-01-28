@@ -1,6 +1,10 @@
 # shravanvfxPortfolio.github.io
 My first website - I tried creating my VFX portfolio website.
 
+## Demo
+
+<p> <img align="left" alt="gif" src="https://github.com/ShravanKumar-dev97/shravanvfxPortfolio.github.io/blob/main/gif.gif" width="400" height=250" /></p>
+
 
 ## Challanges while creating website.
 
@@ -23,8 +27,6 @@ No, I just used only CSS. Because it's my first website. I don't want to go with
 I created using CSS. taking help of this tutorial https://youtu.be/fV52lPwmk20
 
 
-## Demo
 
-<p> <img align="left" alt="gif" src="https://github.com/ShravanKumar-dev97/shravanvfxPortfolio.github.io/blob/main/gif.gif" width="400" height=250" /></p>
 
 
