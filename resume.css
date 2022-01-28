@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;    
+    
+}
+
+
+
+
+
+body{
+    
+    background-color: rgb(10, 10, 10);
+    
+}
+
+
+
+p{
+    color: gray;
+    padding-left: 5%;
+    transform: translateY(2em);
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+p:hover{
+    cursor: pointer;
+    color: rgb(230, 0, 0);
+}
+
+h2{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 500;
+    
+    color: rgb(255, 255, 255);
+    border-bottom: 3px solid transparent;
+    border-image: linear-gradient(to right, transparent, red , transparent);
+    border-image-slice: 1; 
+}
+
+
+.containerpdf{
+    padding: 25px;
+}
