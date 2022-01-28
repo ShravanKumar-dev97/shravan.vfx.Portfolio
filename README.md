@@ -10,4 +10,4 @@ My first website - I tried creating my VFX portfolio website.
 
 ## How I resolved.
 
-gif.gif
+https://github.com/ShravanKumar-dev97/shravanvfxPortfolio.github.io/blob/main/gif.gif
