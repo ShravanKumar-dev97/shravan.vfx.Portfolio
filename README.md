@@ -13,4 +13,6 @@ My first website - I tried creating my VFX portfolio website.
 
 ## Demo
 
-https://github.com/ShravanKumar-dev97/shravanvfxPortfolio.github.io/blob/main/gif.gif
+<p> <img align="right" alt="gif" src="https://github.com/ShravanKumar-dev97/shravanvfxPortfolio.github.io/blob/main/gif.gif" width="400" height=250" /></p>
+
+
