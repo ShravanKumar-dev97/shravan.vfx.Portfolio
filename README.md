@@ -10,4 +10,4 @@ My first website - I tried creating my VFX portfolio website.
 
 ## How I resolved.
 
-1. 
+gif.gif
