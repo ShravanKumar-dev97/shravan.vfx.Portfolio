@@ -192,7 +192,6 @@ a:hover{
 
 
 .movie img{
-    
     border-radius: 10px;
     width: 10.1em;
     height: 15em; 
@@ -252,7 +251,6 @@ h5{
 }
 
 p{
-    
     transform: translateY(8.5em);
     text-align: left;
     opacity: 60%;
@@ -333,9 +331,6 @@ footer{
 
 .icon ul{
   display: flex;
-  
-  
-  
   justify-content: center;
   padding-bottom: 1em;
   padding-left: 0;
@@ -394,7 +389,7 @@ footer{
    
     .header{
         padding-left: 0.5em;
-        height: 85vh;
+        height: 84vh;
         
     }
 
