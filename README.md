@@ -8,7 +8,19 @@ My first website - I tried creating my VFX portfolio website.
   2. Parallex effect
   3. responsive website
 
-## How I resolved.
+## FAQ
+
+#### What are Tools used ?
+
+HTML5 & CSS
+
+#### Did you use any Bootstrap or tailwind framework ?
+
+No, I just used only CSS. Because it's my first website. I don't want to go with shortcut route.
+
+#### How you created the Background animation ?
+
+I created using CSS. taking help of this tutorial https://youtu.be/fV52lPwmk20
 
 
 ## Demo
