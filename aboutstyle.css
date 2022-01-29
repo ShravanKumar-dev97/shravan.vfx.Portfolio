@@ -23,8 +23,9 @@ body{
 
 
 a{
-    color: rgb(109, 109, 109);
+    color: rgb(168, 168, 168);
     text-decoration: none; 
+    font-weight: 500;
    
 }
 
